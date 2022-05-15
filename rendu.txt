@@ -1,0 +1,17 @@
+Plugins 
+
+Elementor : Le constructeur de sites web Elementor a tout pour plaire : constructeur de page par glisser-déposer, conception parfaite au pixel près, modification adaptée au mobile, et bien plus encore.
+
+WooCommerce, la solution de vente en ligne idéale pour les petites et moyennes entreprises 
+
+Le RGPD ( Règlement Général sur la Protection des Données ) a un objectif : protéger les données personnelles, ou plus exactement renforcer cette protection
+
+Le plugin YITH WooCommerce Wishlist est un outil léger mais puissant qui vous permettra d’ajouter facilement une Wishlist à WordPress. Le plugin permet de nombreuses fonctionnalités et vous offre de nombreuses options pour placer et styliser les options de votre page de liste de souhaits.
+
+Woocommerce Paypal Payments : permet d’accepter les paiements PayPal sur votre boutique et d’utiliser des boutons de paiement intelligents personnalisables
+
+Yoast SEO :  une extension de référencement naturel parmi les plus utilisés. La raison à cela est simple : c'est l'un des plus complets et les plus à jour sur ce sujet.
+
+Contact Form 7 est une extension WordPress gratuite pour créer des formulaires de contact simplement et rapidement.
+
+Le WPML (WordPress Multilungual Plugin) est plugin chargé de transformer et de traduire un site, blog ou plateforme monolingue afin de le rendre multilingue et de le développer à l’international. 
